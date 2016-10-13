@@ -1,0 +1,7 @@
+name = Rules Term to TID
+description = Provides a lightweight Rules action to convert terminology term names to their corresponding tids
+core = 7.x
+package = Rules
+version = 7.x-1.0-beta
+dependencies[] = rules
+files[] = rules_term_to_tid.module
